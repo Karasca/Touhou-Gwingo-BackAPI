@@ -1,0 +1,1 @@
+module.exports = { DRAIN: "DRAIN", VIGOR: "VIGOR", HEAL: "HEAL", PROTECT: "PROTECT" }
